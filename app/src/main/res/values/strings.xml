@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Daftar Liga</string>
+    <string name="detail_liga">Detail Liga</string>
+    <string-array name="club_name">
+        <item>American Mayor League</item>
+        <item>Australian A League</item>
+        <item>English League 1</item>
+        <item>English Premier League</item>
+        <item>French Ligue</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>Portuguese Premiera Liga</item>
+    </string-array>
+    <string-array name="idLeague">
+        <item>4346</item>
+        <item>4356</item>
+        <item>4396</item>
+        <item>4328</item>
+        <item>4334</item>
+        <item>4331</item>
+        <item>4332</item>
+        <item>4344</item>
+    </string-array>
+    <array name="club_image">
+        <item>@drawable/american_mayor_league</item>
+        <item>@drawable/australian_a_league</item>
+        <item>@drawable/engkish</item>
+        <item>@drawable/english_premier</item>
+        <item>@drawable/french_ligue</item>
+        <item>@drawable/german_bundesliga</item>
+        <item>@drawable/italian_serie_a</item>
+        <item>@drawable/portugeuese_premiera_liga</item>
+    </array>
+    <string-array name="info_liga">
+        <item>Major League Soccer MLS is a professional soccer league representing the sports highest level in both the United States and Canada. MLS constitutes one of the major professional sports leagues of the United States and Canada. The league is composed of 20 teams—17 in the U.S. and 3 in Canada. The MLS regular season runs from March to October, with each team playing 34 games the team with the best record is awarded the Supporters Shield. The post season includes twelve teams competing in the MLS Cup Playoffs through November and December, culminating in the championship game, the MLS Cup. MLS teams also play in other competitions against teams from other divisions and countries, such as the U.S. Open Cup, the Canadian Championship, and the CONCACAF Champions League.</item>
+        <item>The A-League is a professional mens soccer league, run by Football Federation Australia FFA. At the top of the Australian league system, it is the countrys primary competition for the sport. The A-League was established in 2004 as a successor to the National Soccer League NSL and competition commenced in August 2005. The league is currently contested by ten teams nine based in Australia and one based in New Zealand. It is known as the Hyundai A-League HAL through a sponsorship arrangement with the Hyundai Motor Company.Seasons run from October to May and include a 27-round regular season and an end-of-season finals series playoff tournament involving the highest-placed teams, culminating in a grand final match.</item>
+        <item>Football League One often referred to as League One for short or Sky Bet League 1 is the second-highest division of the Football League and the third tier in the English football league system.Football League One was introduced for the 2004–05 season. It was previously known as the Football League Second Division and prior to the advent of the Premier League, the Football League Third Division.At present 2014–15 season, Oldham Athletic hold the longest tenure in League One, last being out of the division in the 1996–97 season when they were relegated from the Championship. There are currently six former Premier League clubs competing in the League One, namely Barnsley, Bradford City, Coventry City, Oldham Athletic, Sheffield United and Swindon Town.</item>
+        <item>The Premier League often referred to as the English Premier League EPL outside England, is the top level of the English football league system. Contested by 20 clubs, it operates on a system of promotion and relegation with the English Football League EFL. The Premier League is a corporation in which the member clubs act as shareholders. Seasons run from August to May with each team playing 38 matches playing each other home and away. Most games are played on Saturday and Sunday afternoons. The Premier League has featured 47 English and two Welsh clubs since its inception, making it a cross-border league.</item>
+        <item>Ligue 1 French pronunciation ​ League 1, formerly known as Division 1, is the French professional league for association football clubs. It is the countrys primary football competition and serves as the top division of the French football league system. Ligue 1 is one of two divisions making up the Ligue de Football Professionnel, the other being Ligue 2. Contested by 20 clubs, it operates on a system of promotion and relegation with Ligue 2. Seasons run from August to May, with teams playing 38 games each totaling 380 games in the season. Most games are played on Saturdays and Sundays, with a few games played during weekday evenings. Play is regularly suspended the last weekend before Christmas for two weeks before returning in the second week of January.</item>
+        <item>The Fuball-Bundesliga English Football Federal League, commonly known as the Bundesliga, is a professional association football league in Germany and the football league with the highest average stadium attendance worldwide. At the top of the German football league system, the Bundesliga is Germans primary football competition. The Bundesliga is contested by 18 teams and operates on a system of promotion and relegation with the 2. Bundesliga. Seasons run from August to May. Most games are played on Saturdays and Sundays, with a few games played during weekdays. All of the Bundesliga clubs qualify for the DFB-Pokal. The winner of the Bundesliga qualifies for the DFL-Supercup.A total of 53 clubs have competed in the Bundesliga since its founding.</item>
+        <item>Serie A, also called Serie A TIM due to sponsorship by Telecom Italia, is a professional league competition for football clubs located at the top of the Italian football league system and has been operating for over eighty years since the 1929–30 season. It had been organized by Lega Calcio until 2010, but a new league, the Lega Serie A, was created for the 2010–11 season.</item>
+        <item>The Primeira Liga First League Portuguese pronunciation , formerly called Primeira Diviso, is the top professional association football division of the Portuguese football league system.The Primeira Liga is contested by 18 clubs, but only five of them have won the title. Founded in 1934, the league is in its 1st edition counting four experimental leagues in the 1930s. It has been dominated by the Big Three Benfica, Porto and Sporting CP. These three clubs have won a total of 78 titles, withBelenenses and Boavista winning the other two.</item>
+    </string-array>
+    <string name="title_activity_detail_main">DetailMainActivity</string>
+</resources>

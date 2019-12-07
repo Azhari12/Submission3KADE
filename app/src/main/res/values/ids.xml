@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="name" type="id" />
+    <item name="club_list" type="id" />
+    <item name="gambar" type="id" />
+    <item name="igmDetail" type="id" />
+    <item name="tvNamaDetail" type="id" />
+    <item name="tvDeskripsiDetail" type="id" />
+    <item name="gambarDetail" type="id" />
+</resources>
